@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public Text Test;
+    public Vector3 position;
     // Start is called before the first frame update
     void Start()
     {
